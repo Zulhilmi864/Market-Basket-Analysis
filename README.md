@@ -11,7 +11,9 @@ techniques, we aim to uncover hidden patterns, trends, and correlations within t
 By leveraging MBA, we can gain a deeper understanding of its customers' needs and behaviors, ultimately driving business success through targeted marketing campaigns, optimized
 product offerings, and improved customer experiences.
 
-Data - https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset
+Data 
+- https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset
+- https://www.kaggle.com/datasets/saakshihs/breadbasket
 
 In this repo we will complete the following data science lifecycle:
 
